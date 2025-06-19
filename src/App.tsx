@@ -19,7 +19,7 @@ function App() {
       description: "Thea is a full-stack theater booking web app that provides a clean and accessible user experience for exploring plays, booking seats, and storing e-tickets. Built with Flutter (frontend), Firebase, and PDF generation for ticketing, it features seat-specific booking logic, favorite shows, and a customizable admin panel for managing performances and availability.",
       type: "image",
       image: "https://github.com/user-attachments/assets/f76b6e38-d693-4221-b3c3-438f0ee63191", 
-      liveUrl: "#",
+      liveUrl: "https://youtu.be/mclSJEVypuQ?si=w-X5gPzh7WQq9Buu",
       sourceUrl: "https://github.com/EleniKechrioti/Thea"
     },
     {
@@ -27,7 +27,6 @@ function App() {
       description: "Designed and led a hands-on workshop that introduced participants to URL and EXE file inspection through an interactive machine learning project. The project classifies malicious and phishing links using real-world datasets, and was used as both an educational tool and a demo in a cybersecurity learning context.",
       type: "image",
       image: "https://github.com/user-attachments/assets/965586ba-6838-4280-8408-4062783d860b",
-      liveUrl: "#",
       sourceUrl: "https://github.com/EleniKechrioti/Malware-and-Phishing-URL-Detection"
     }
   ];
