@@ -128,7 +128,11 @@ function App() {
                 understand what’s really happening under the hood.
               </p>
               <p className="text-xl text-gray-600 mb-8 dark:text-white">
-                I am currently an undergraduate student at <a href="https://www.aueb.gr/" className="text-rose-600 hover:text-rose-700">AUEB</a>.
+                I recently completed my BSc in Computer Science at <a href="https://aueb.gr" className="text-rose-600 hover:text-rose-700">AUEB</a>, where I completed my thesis
+                on evaluating blockchain's role in enhancing Capability-Based access control in IIoT environments.
+              </p>
+              <p className="text-xl text-gray-600 mb-8 dark:text-white">
+                I am currently pursuing my Master's (MSc) in Information Systems Security & Development at <a href="https://mscis.cs.aueb.gr/en/normal/home" className="text-rose-600 hover:text-rose-700">AUEB</a>.
               </p>
               <div className="flex justify-center md:justify-start space-x-4">
                 <a href="https://github.com/EleniKechrioti" className="text-gray-600 hover:text-rose-600 dark:text-white">
@@ -139,6 +143,9 @@ function App() {
                 </a>
                 <a href="mailto:elenikehrioti@gmail.com" className="text-gray-600 hover:text-rose-600 dark:text-white">
                   <Mail className="w-6 h-6" />
+                </a>
+                <a href="https://alumni.aueb.gr/el/aueb-alumni-mybadge/1952/3efbb6a145a0fb8dc9d29db84307f9eb3538887f479e8c2fd41e7f0d30083b1e" className="text-gray-600 hover:text-rose-600 dark:text-white">
+                  <img src="assets\AUEB_alumni_badge.png" width="10%"/>
                 </a>
               </div>
             </div>
@@ -220,7 +227,14 @@ function App() {
                 <div className="border-l-2 border-rose-600 pl-4">
                   <h4 className="text-lg font-semibold dark:text-white">Bolstering IIoT Resilience: The Synergy of Blockchain and CapBAC</h4>
                   <p className="text-gray-600 dark:text-white">22nd International Conference on <br></br>Security & Cryptography (SECRYPT-2025)</p>
-                  <p className="text-gray-600 mt-2 dark:text-white"><a href="https://www.infosec.aueb.gr/index.php/2009-01-24-15-10-51/2009-01-24-15-48-57"> Link </a></p>
+                  <p className="text-gray-600 mt-2 dark:text-white"><a href="https://www.scitepress.org/Papers/2025/135138/135138.pdf"> Link </a></p>
+                </div>
+              </div>
+              <div className="space-y-6">
+                <div className="border-l-2 border-rose-600 pl-4">
+                  <h4 className="text-lg font-semibold dark:text-white">Evaluating Blockchain’s Role in Enhancing Capability-Based Access Control in IIoT Environments</h4>
+                  <p className="text-gray-600 dark:text-white">BSc Thesis</p>
+                  <p className="text-gray-600 mt-2 dark:text-white"><a href="https://drive.google.com/file/d/1ZpWAWATM5w20nI6Ctk6zv1njeAr4_iPk/view?usp=sharing"> Link </a></p>
                 </div>
               </div>
             </div>
@@ -236,7 +250,7 @@ function App() {
                   <h4 className="text-lg font-semibold dark:text-white">BSc in Computer Science</h4>
                   <p className="text-gray-600 dark:text-white">Athens University of Economic and Business</p>
                   <p className="text-gray-600 dark:text-white">Oct 2021 - June 2025</p>
-                  <p className="text-gray-600 dark:text-white">Grade 8.72/10</p>
+                  <p className="text-gray-600 dark:text-white">Grade 8.75/10</p>
                 </div>
                 <div className="border-l-2 border-rose-600 pl-4">
                   <h4 className="text-lg font-semibold dark:text-white">High School Diploma</h4>
